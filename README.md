@@ -45,10 +45,6 @@ The alert sign indicates we are missing a domain, click it:  <br/>
 <img src="https://imgur.com/JsXWZaG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Install remote adressing to configure NAT that allows our clients access to the internet through our private IP address:  <br/>
-<img src="https://imgur.com/1GhNEZu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 Name and configure domain:  <br/>
 <img src="https://imgur.com/qtqobp7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -77,8 +73,12 @@ After creating account right click on propertis and give admin priviledges by ad
 <img src="https://imgur.com/cwlKRP8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-   To manage our users we need to install active directory:  <br/>
-<img src="https://imgur.com/CcgKnT1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Sign in with new user credentials:  <br/>
+<img src="https://imgur.com/EkOfUvg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Install remote adressing to configure NAT that allows our clients access to the internet through our private IP address:  <br/>
+<img src="https://imgur.com/1GhNEZu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 After setting up remote addressing install NAT:  <br/>
